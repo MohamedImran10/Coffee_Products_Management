@@ -30,6 +30,13 @@ MySQL (MariaDB)
 Eclipse IDE
 
 💻 **Screenshots**
+<img width="359" height="401" alt="s1" src="https://github.com/user-attachments/assets/7f5a50df-f7db-4bc3-8cbb-753dd1e79ac5" />
+
+<img width="345" height="240" alt="s2" src="https://github.com/user-attachments/assets/7efda897-6fec-4dce-846a-1669150ec09e" />
+
+<img width="374" height="181" alt="s3" src="https://github.com/user-attachments/assets/11340425-26b0-4e01-8383-4b9d071d7120" />
+
+<img width="350" height="350" alt="s4" src="https://github.com/user-attachments/assets/c275e9d2-3499-4857-a917-e51d9466203c" />
 
 
 🚀**Setup Instructions**
