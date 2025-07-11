@@ -3,15 +3,16 @@
 A Java mini project for managing coffee product listings and inventory. Built using JSP, HTML, Tomcat server, and MySQL (MariaDB), implemented in Eclipse IDE. Supports full CRUD operations (Create, Read, Update, Delete).
 
 ⚙️ **Features**
-Add new coffee products
 
-View product list
+-Add new coffee products
 
-Update existing product details
+-View product list
 
-Delete products
+-Update existing product details
 
-Connected to MySQL (MariaDB) for persistent storage
+-Delete products
+
+-Connected to MySQL (MariaDB) for persistent storage
 
 🛠️ **Technologies Used**
 Core Java
@@ -28,7 +29,8 @@ Eclipse IDE
 
 💻 **Screenshots**
 
-🚀** Setup Instructions**
+
+🚀**Setup Instructions**
 1.Clone the repository.
 
 2.Import into Eclipse as an existing project.
